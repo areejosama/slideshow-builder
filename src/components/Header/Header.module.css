@@ -1,0 +1,15 @@
+.header{
+    width:7%;
+    background-color: #0ab9cf;
+    z-index: 9999;
+}
+
+.icon{
+    color:	black;
+}
+
+.imgbox img{
+    height: 90px;
+    width: 120px;
+}
+
